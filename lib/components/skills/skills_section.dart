@@ -28,7 +28,7 @@ class SkillsSection extends StatelessComponent {
               ),
               div(classes: 'skills-section__header portfolio-header', [
                 h2(classes: 'skills-section__title portfolio-title', [
-                  Component.text('Technical Arsenal'),
+                  Component.text('Technical Stack'),
                 ]),
               ]),
             ]),
